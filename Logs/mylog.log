@@ -1,0 +1,232 @@
+[INFO ] 2023-10-13 15:08:49.907 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:08:53.361 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 15:09:06.673 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 15:09:27.856 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:09:27.858 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-13 15:09:28.499 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-13 15:09:30.019 [main] ShoppingCart - Login success
+[INFO ] 2023-10-13 15:09:31.177 [main] ShoppingCart - Searching product
+[INFO ] 2023-10-13 15:09:31.756 [main] ShoppingCart - Product successfully added to cart
+[INFO ] 2023-10-13 15:09:53.390 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:14:58.065 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:15:01.632 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 15:15:15.056 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 15:15:44.747 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:15:44.751 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-13 15:15:45.401 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-13 15:15:46.827 [main] ShoppingCart - Login success
+[INFO ] 2023-10-13 15:15:47.889 [main] ShoppingCart - Searching product
+[INFO ] 2023-10-13 15:15:48.474 [main] ShoppingCart - Product successfully added to cart
+[INFO ] 2023-10-13 15:16:03.057 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:18:44.220 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:18:48.480 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 15:19:01.795 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 15:19:25.318 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:19:25.323 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-13 15:19:25.961 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-13 15:19:27.443 [main] ShoppingCart - Login success
+[INFO ] 2023-10-13 15:19:28.432 [main] ShoppingCart - Searching product
+[INFO ] 2023-10-13 15:19:28.994 [main] ShoppingCart - Product successfully added to cart
+[INFO ] 2023-10-13 15:19:51.803 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:23:04.123 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:23:04.142 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-13 15:23:04.783 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-13 15:23:06.874 [main] ShoppingCart - Login success
+[INFO ] 2023-10-13 15:23:08.462 [main] ShoppingCart - Searching product
+[INFO ] 2023-10-13 15:23:09.006 [main] ShoppingCart - Product successfully added to cart
+[INFO ] 2023-10-13 15:25:38.566 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:25:38.587 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-13 15:25:39.759 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-13 15:25:41.516 [main] ShoppingCart - Login success
+[INFO ] 2023-10-13 15:25:42.520 [main] ShoppingCart - Searching product
+[INFO ] 2023-10-13 15:25:43.096 [main] ShoppingCart - Product successfully added to cart
+[INFO ] 2023-10-13 15:25:43.096 [main] ShoppingCart - Logout Success
+[INFO ] 2023-10-13 15:31:36.674 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:31:36.700 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-13 15:31:37.375 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-13 15:31:38.788 [main] ShoppingCart - Login success
+[INFO ] 2023-10-13 15:31:39.757 [main] ShoppingCart - Searching product
+[INFO ] 2023-10-13 15:31:40.282 [main] ShoppingCart - Product successfully added to cart
+[INFO ] 2023-10-13 15:31:40.282 [main] ShoppingCart - Logout Success
+[INFO ] 2023-10-13 15:33:36.625 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:33:39.760 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 15:33:53.034 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 15:34:14.204 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:34:14.207 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-13 15:34:14.831 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-13 15:34:16.309 [main] ShoppingCart - Login success
+[INFO ] 2023-10-13 15:34:17.314 [main] ShoppingCart - Searching product
+[INFO ] 2023-10-13 15:34:17.865 [main] ShoppingCart - Product successfully added to cart
+[INFO ] 2023-10-13 15:34:17.865 [main] ShoppingCart - Logout Success
+[INFO ] 2023-10-13 15:34:17.872 [main] ShoppingCart - ***********Buy product**************************
+[INFO ] 2023-10-13 15:34:41.719 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:37:33.451 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:37:36.744 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 15:37:49.991 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 15:38:12.415 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:38:12.422 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-13 15:38:13.075 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-13 15:38:14.475 [main] ShoppingCart - Login success
+[INFO ] 2023-10-13 15:38:15.413 [main] ShoppingCart - Searching product
+[INFO ] 2023-10-13 15:38:15.961 [main] ShoppingCart - Product successfully added to cart
+[INFO ] 2023-10-13 15:38:15.961 [main] ShoppingCart - Logout Success
+[INFO ] 2023-10-13 15:38:15.966 [main] ShoppingCart - ***********Buy product**************************
+[INFO ] 2023-10-13 15:38:35.126 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:40:33.903 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:40:47.195 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 15:41:11.246 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 15:41:51.549 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:41:51.562 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-13 15:42:02.303 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-13 15:42:03.743 [main] ShoppingCart - Login success
+[INFO ] 2023-10-13 15:42:05.453 [main] ShoppingCart - Searching product
+[INFO ] 2023-10-13 15:42:06.000 [main] ShoppingCart - Product successfully added to cart
+[INFO ] 2023-10-13 15:42:06.000 [main] ShoppingCart - Logout Success
+[INFO ] 2023-10-13 15:42:06.008 [main] ShoppingCart - ***********Buy product**************************
+[INFO ] 2023-10-13 15:42:37.720 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:46:17.977 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:46:21.291 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 15:46:34.546 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 15:46:57.292 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:46:57.294 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-13 15:46:57.962 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-13 15:46:59.497 [main] ShoppingCart - Login success
+[INFO ] 2023-10-13 15:47:00.438 [main] ShoppingCart - Searching product
+[INFO ] 2023-10-13 15:47:00.972 [main] ShoppingCart - Product successfully added to cart
+[INFO ] 2023-10-13 15:47:00.973 [main] ShoppingCart - Logout Success
+[INFO ] 2023-10-13 15:47:00.985 [main] ShoppingCart - ***********Buy product**************************
+[INFO ] 2023-10-13 15:47:21.154 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:49:58.302 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:50:55.140 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:50:55.144 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-13 15:51:14.169 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:53:05.836 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:53:32.345 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:53:32.356 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-13 15:54:33.948 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:55:05.100 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:55:05.108 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-13 15:55:23.407 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:56:32.633 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:56:36.295 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 15:56:49.732 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 15:57:11.897 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 15:57:11.900 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-13 15:57:12.573 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-13 15:57:15.276 [main] ShoppingCart - Login success
+[INFO ] 2023-10-13 15:57:16.445 [main] ShoppingCart - Searching product
+[INFO ] 2023-10-13 15:57:16.914 [main] ShoppingCart - Product successfully added to cart
+[INFO ] 2023-10-13 15:57:48.430 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 16:00:11.120 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 16:00:14.150 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 16:00:27.363 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 16:00:48.012 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 16:00:48.017 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-13 16:00:48.552 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-13 16:00:50.102 [main] ShoppingCart - Login success
+[INFO ] 2023-10-13 16:00:51.271 [main] ShoppingCart - Searching product
+[INFO ] 2023-10-13 16:00:51.758 [main] ShoppingCart - Product successfully added to cart
+[INFO ] 2023-10-13 16:01:01.800 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 16:01:50.675 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 16:01:53.549 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 16:02:06.482 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-13 16:02:25.468 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-13 16:02:25.477 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-13 16:02:26.631 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-13 16:02:27.905 [main] ShoppingCart - Login success
+[INFO ] 2023-10-13 16:02:28.785 [main] ShoppingCart - Searching product
+[INFO ] 2023-10-13 16:02:29.300 [main] ShoppingCart - Product successfully added to cart
+[INFO ] 2023-10-13 16:02:30.602 [main] ShoppingCart - Logout Success
+[INFO ] 2023-10-13 16:02:30.612 [main] ShoppingCart - ***********Buy product**************************
+[INFO ] 2023-10-13 16:02:31.125 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-13 16:02:32.049 [main] ShoppingCart - Login success
+[INFO ] 2023-10-13 16:02:32.742 [main] ShoppingCart - Navigate to cart page
+[INFO ] 2023-10-13 16:02:32.774 [main] ShoppingCart - Product verified
+[INFO ] 2023-10-13 16:02:32.810 [main] ShoppingCart - Product model verified
+[INFO ] 2023-10-13 16:02:33.789 [main] ShoppingCart - Product quantity successfully updated
+[INFO ] 2023-10-13 16:02:33.811 [main] ShoppingCart - Product price verified successfully
+[INFO ] 2023-10-13 16:02:34.661 [main] ShoppingCart - ***********Buy product ends**************************
+[INFO ] 2023-10-13 16:02:43.600 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-14 10:44:52.324 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-14 10:44:57.084 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-14 10:45:12.196 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-14 10:45:33.176 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-14 10:45:33.181 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-14 10:45:34.399 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-14 10:45:36.198 [main] ShoppingCart - Login success
+[INFO ] 2023-10-14 10:45:38.653 [main] ShoppingCart - Searching product
+[INFO ] 2023-10-14 10:45:39.546 [main] ShoppingCart - Product successfully added to cart
+[INFO ] 2023-10-14 10:45:44.557 [main] ShoppingCart - Logout Success
+[INFO ] 2023-10-14 10:45:44.577 [main] ShoppingCart - ***********Buy product**************************
+[INFO ] 2023-10-14 10:45:45.433 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-14 10:45:47.284 [main] ShoppingCart - Login success
+[INFO ] 2023-10-14 10:45:48.850 [main] ShoppingCart - Navigate to cart page
+[INFO ] 2023-10-14 10:45:48.957 [main] ShoppingCart - Product verified
+[INFO ] 2023-10-14 10:45:49.021 [main] ShoppingCart - Product model verified
+[INFO ] 2023-10-14 10:45:50.777 [main] ShoppingCart - Product quantity successfully updated
+[INFO ] 2023-10-14 10:45:50.870 [main] ShoppingCart - Product price verified successfully
+[INFO ] 2023-10-14 10:45:52.615 [main] ShoppingCart - ***********Buy product ends**************************
+[INFO ] 2023-10-14 10:45:59.345 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-14 11:13:25.473 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-14 11:13:29.867 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-14 11:13:43.617 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-14 11:14:02.648 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-14 11:14:02.650 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-14 11:14:03.311 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-14 11:14:05.019 [main] ShoppingCart - Login success
+[INFO ] 2023-10-14 11:14:07.578 [main] ShoppingCart - Searching product
+[INFO ] 2023-10-14 11:14:08.164 [main] ShoppingCart - Product successfully added to cart
+[INFO ] 2023-10-14 11:14:12.392 [main] ShoppingCart - Logout Success
+[INFO ] 2023-10-14 11:14:12.396 [main] ShoppingCart - ***********Buy product**************************
+[INFO ] 2023-10-14 11:14:12.934 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-14 11:14:14.095 [main] ShoppingCart - Login success
+[INFO ] 2023-10-14 11:14:14.895 [main] ShoppingCart - Navigate to cart page
+[INFO ] 2023-10-14 11:14:14.949 [main] ShoppingCart - Product verified
+[INFO ] 2023-10-14 11:14:15.008 [main] ShoppingCart - Product model verified
+[INFO ] 2023-10-14 11:14:16.130 [main] ShoppingCart - Product quantity successfully updated
+[INFO ] 2023-10-14 11:14:16.151 [main] ShoppingCart - Product price verified successfully
+[INFO ] 2023-10-14 11:14:18.518 [main] ShoppingCart - ***********Buy product ends**************************
+[INFO ] 2023-10-14 11:14:24.641 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-14 12:49:47.842 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-14 12:49:53.625 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-14 12:50:08.953 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-14 14:26:27.521 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-14 14:26:33.946 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-14 14:26:49.001 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-14 14:27:07.160 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-14 14:27:07.174 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-14 14:27:08.277 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-14 14:27:10.406 [main] ShoppingCart - Login success
+[INFO ] 2023-10-14 14:27:12.147 [main] ShoppingCart - Searching product
+[INFO ] 2023-10-14 14:27:12.969 [main] ShoppingCart - Product successfully added to cart
+[INFO ] 2023-10-14 14:27:17.656 [main] ShoppingCart - Logout Success
+[INFO ] 2023-10-14 14:27:17.670 [main] ShoppingCart - ***********Buy product**************************
+[INFO ] 2023-10-14 14:27:18.640 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-14 14:27:22.341 [main] ShoppingCart - Login success
+[INFO ] 2023-10-14 14:27:23.718 [main] ShoppingCart - Navigate to cart page
+[INFO ] 2023-10-14 14:27:23.833 [main] ShoppingCart - Product verified
+[INFO ] 2023-10-14 14:27:23.975 [main] ShoppingCart - Product model verified
+[INFO ] 2023-10-14 14:27:26.018 [main] ShoppingCart - Product quantity successfully updated
+[INFO ] 2023-10-14 14:27:26.131 [main] ShoppingCart - Product price verified successfully
+[INFO ] 2023-10-14 14:27:27.320 [main] ShoppingCart - ***********Buy product ends**************************
+[INFO ] 2023-10-14 14:27:33.940 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-14 17:06:03.012 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-14 17:06:08.920 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-14 17:06:22.682 [main] ShoppingCart - Entered the login credentials
+[INFO ] 2023-10-14 17:06:40.936 [main] ShoppingCart - Url opened
+[INFO ] 2023-10-14 17:06:40.939 [main] ShoppingCart - ***********Starting search product**************************
+[INFO ] 2023-10-14 17:06:41.552 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-14 17:06:42.801 [main] ShoppingCart - Login success
+[INFO ] 2023-10-14 17:06:43.732 [main] ShoppingCart - Searching product
+[INFO ] 2023-10-14 17:06:44.381 [main] ShoppingCart - Product successfully added to cart
+[INFO ] 2023-10-14 17:06:48.206 [main] ShoppingCart - Logout Success
+[INFO ] 2023-10-14 17:06:48.214 [main] ShoppingCart - ***********Buy product**************************
+[INFO ] 2023-10-14 17:06:48.764 [main] ShoppingCart - Navigated to login page
+[INFO ] 2023-10-14 17:06:49.763 [main] ShoppingCart - Login success
+[INFO ] 2023-10-14 17:06:50.549 [main] ShoppingCart - Navigate to cart page
+[INFO ] 2023-10-14 17:06:50.581 [main] ShoppingCart - Product verified
+[INFO ] 2023-10-14 17:06:50.612 [main] ShoppingCart - Product model verified
+[INFO ] 2023-10-14 17:06:51.572 [main] ShoppingCart - Product quantity successfully updated
+[INFO ] 2023-10-14 17:06:51.612 [main] ShoppingCart - Product price verified successfully
+[INFO ] 2023-10-14 17:06:52.450 [main] ShoppingCart - ***********Buy product ends**************************
+[INFO ] 2023-10-14 17:06:58.416 [main] ShoppingCart - Url opened
